@@ -1,0 +1,16 @@
+NodeJS:
+https://nodejs.org/en/
+ 
+npmJS:
+https://www.npmjs.com/
+ 
+Reactjs:
+https://reactjs.org/
+ 
+Create React App:
+https://create-react-app.dev/
+ 
+
+VS Code:
+https://code.visualstudio.com/
+ 
